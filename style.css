@@ -45,10 +45,10 @@ h1 {
     padding: 30px 10px;
 }
 
-.vaibhav {
+.Hemesh {
     width: 250px;
-    height: 250px;
-    border-radius: 50%;
+    height: 300px;
+    border-radius: 30%;
     object-fit: cover;
     margin: 15px 0;
     border: 3px solid #555;
@@ -60,7 +60,6 @@ h1 {
     margin: 10px 0;
 }
 
-/* Project Section */
 .project {
     text-align: center;
     padding: 30px 10px;
@@ -98,7 +97,6 @@ h1 {
     color: #bbb;
 }
 
-/* Contact Form Styling */
 .contact {
     background-color: #111;
     padding: 30px;
@@ -178,12 +176,9 @@ footer {
     width: 40px;
     height: 40px;
     filter: brightness(0.8);
-    /* Dim the icons slightly */
 }
 
 .social-icons a:hover {
     transform: scale(1.2);
-    /* Enlarge the icon on hover */
     filter: brightness(1);
-    /* Restore brightness on hover */
 }
